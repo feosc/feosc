@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens/Ferramentas: <strong>Python, Pyspark, SQL, Databricks, Datafactory, Cloud Azure, Spark</strong>
+  Linguagens/Ferramentas: <strong>Python, Pyspark, SQL, Databricks, Datafactory, Cloud Azure, Spark</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">
