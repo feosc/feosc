@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Microsoft e AWS Certifier. Bacharel em Sistemas de Informação com experiência em Big Data e<strong> Engenharia de Dados</strong>. Atualmente ocupo o cargo de Engenheiro de dados.
+  Microsoft e AWS Certifier. Bacharel em SI com experiência sólida em Big Data e<strong> Engenharia de Dados</strong>. Atualmente ocupo o cargo de Engenheiro de dados Senior em projetos para diferentes segmentos de mercado.
 </p>
 
 <p align="left">
