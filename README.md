@@ -12,4 +12,4 @@
   Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-https://www.linkedin.com/in/felipe-coelho-ba3a00179 
+[https://www.linkedin.com/in/felipe-coelho-ba3a00179 ](https://www.linkedin.com/in/felipe-oliveira-9977742aa/)
